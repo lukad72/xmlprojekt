@@ -1,76 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<user_list>
-	<user>
+<korisnici>
+	<korisnik id="1">
 		<username>anaanic</username>
 		<password>12345</password>
 		<ime>Ana</ime>
 		<prezime>Anić</prezime>
-	</user>
-	<user>
+	</korisnik>
+	<korisnik id="2">
 		<username>anteantic</username>
 		<password>12345</password>
 		<ime>Ante</ime>
 		<prezime>Antic</prezime>
-	</user>
-	<user>
+	</korisnik>
+	<korisnik id="3">
 		<username>brankobrankic</username>
 		<password>12345</password>
 		<ime>Branko</ime>
 		<prezime>Brankić</prezime>
-	</user>
-	<user>
+	</korisnik>
+	<korisnik id="4">
 		<username>majamajic</username>
 		<password>12345</password>
 		<ime>Maja</ime>
 		<prezime>Majić</prezime>
-	</user>
-	<user>
+	</korisnik>
+	<korisnik id="5">
 		<username>ivoivic</username>
 		<password>12345</password>
 		<ime>Ivo</ime>
 		<prezime>Ivić</prezime>
-	</user>
-	<user>
+	</korisnik>
+	<korisnik id="6">
 		<username>markomarkic</username>
 		<password>12345</password>
 		<ime>Marko</ime>
 		<prezime>Markić</prezime>
-	</user>
-	<user>
+	</korisnik>
+	<korisnik id="7">
 		<username>peroperic</username>
 		<password>12345</password>
 		<ime>Pero</ime>
 		<prezime>Perić</prezime>
-	</user>
-	<user>
+	</korisnik>
+	<korisnik id="8">
 		<username>lukalukic</username>
 		<password>12345</password>
 		<ime>Luka</ime>
 		<prezime>Lukić</prezime>
-	</user>
-	<user>
+	</korisnik>
+	<korisnik id="9">
 		<username>jozajozic</username>
 		<password>12345</password>
 		<ime>Joža</ime>
 		<prezime>Jožić</prezime>
-	</user>
-	<user>
+	</korisnik>
+	<korisnik id="10">
 		<username>martamartic</username>
 		<password>12345</password>
 		<ime>Marta</ime>
 		<prezime>Martić</prezime>
-	</user>
-	<user>
+	</korisnik>
+	<korisnik id="11">
 		<username>miromiric</username>
 		<password>12345</password>
 		<ime>Miro</ime>
 		<prezime>Mirić</prezime>
-	</user>
-	<user>
+	</korisnik>
+	<korisnik id="12">
 		<username>stefstefic</username>
 		<password>12345</password>
 		<ime>Štef</ime>
 		<prezime>Štefić</prezime>
-	</user>
-
-</user_list>
+	</korisnik>
+</korisnici>
